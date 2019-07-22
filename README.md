@@ -13,4 +13,8 @@ To run Pacman with the classifier as the control, type in into the terminal:
 
 python pacman.py --pacman ClassifierAgent
 
+## Berkeley License:
+
+This coursework is based on the PacmanAI from UC Berkeley: http://ai.berkeley.edu/project_overview.html
+
 
